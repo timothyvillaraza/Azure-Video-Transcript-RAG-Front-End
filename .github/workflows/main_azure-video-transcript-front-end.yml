@@ -3,6 +3,9 @@
 
 name: Build and deploy Node.js app to Azure Web App - azure-video-transcript-front-end
 
+env: 
+  CI: false
+
 on:
   push:
     branches:
