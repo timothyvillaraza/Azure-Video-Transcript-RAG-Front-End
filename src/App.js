@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './Home';
-import Test from './Test.js';
+import MyTest from './MyTest.js';
 
 function App() {
   return (
